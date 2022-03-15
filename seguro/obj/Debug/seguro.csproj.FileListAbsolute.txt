@@ -1,0 +1,10 @@
+C:\Users\Marsh\Documents\Programação\VS\seguro\seguro\bin\Debug\seguro.exe.config
+C:\Users\Marsh\Documents\Programação\VS\seguro\seguro\bin\Debug\seguro.exe
+C:\Users\Marsh\Documents\Programação\VS\seguro\seguro\bin\Debug\seguro.pdb
+C:\Users\Marsh\Documents\Programação\VS\seguro\seguro\obj\Debug\seguro.csproj.AssemblyReference.cache
+C:\Users\Marsh\Documents\Programação\VS\seguro\seguro\obj\Debug\seguro.frmInsuranceCalc.resources
+C:\Users\Marsh\Documents\Programação\VS\seguro\seguro\obj\Debug\seguro.Properties.Resources.resources
+C:\Users\Marsh\Documents\Programação\VS\seguro\seguro\obj\Debug\seguro.csproj.GenerateResource.cache
+C:\Users\Marsh\Documents\Programação\VS\seguro\seguro\obj\Debug\seguro.csproj.CoreCompileInputs.cache
+C:\Users\Marsh\Documents\Programação\VS\seguro\seguro\obj\Debug\seguro.exe
+C:\Users\Marsh\Documents\Programação\VS\seguro\seguro\obj\Debug\seguro.pdb
